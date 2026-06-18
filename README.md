@@ -301,7 +301,7 @@ restart the server - embeddings are regenerated automatically on startup.
 
 ---
 
-## 🤝 Contributing
+<!--## 🤝 Contributing
 
 This started as a personal placement-prep project and is shared for
 learning and feedback. Issues, suggestions, and pull requests are welcome!
@@ -310,4 +310,4 @@ learning and feedback. Issues, suggestions, and pull requests are welcome!
 
 No license has been chosen yet. If you'd like others to be able to use or
 build on this project, consider adding an [MIT License](https://choosealicense.com/licenses/mit/)
-(GitHub can generate this for you when creating the repository).
+(GitHub can generate this for you when creating the repository).-->
