@@ -1,0 +1,5 @@
+# Extra dependencies for running the test suite (in addition to requirements.txt)
+# Install with: pip install -r requirements-dev.txt
+-r requirements.txt
+
+pytest==9.0.3
